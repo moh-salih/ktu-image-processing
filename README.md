@@ -2,7 +2,6 @@
 
 **Karadeniz Teknik Üniversitesi — Yazılım Mühendisliği Bölümü**  
 **Ders:** Görüntü İşleme (2024–2025 Bahar)  
-**Yazar:** Mohammed Jabbar Salih (392205)  
 
 ---
 
