@@ -1,0 +1,25 @@
+# Qt build files
+build/
+*.user
+*.autosave
+*.pro.user*
+*.moc
+*.qrc
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+*.app
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
